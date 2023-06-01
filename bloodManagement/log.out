@@ -1,0 +1,120 @@
+2022-12-12 20:56:27,570(yyyy-MM-dd HH:mm:ss,SSS)INFO -Blood Donation Management Started 
+  2022-12-12 20:56:31,936(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetch Id Process Started Sucesfully
+  2022-12-12 20:56:32,485(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=12, donoName=karuppu, donorAge=32, genderId=13, donorContact=9083462782, donorWeight=70, addressId=17]
+  2022-12-12 20:56:32,485(yyyy-MM-dd HH:mm:ss,SSS)INFO -12 Id details Fetched succesfully
+  2022-12-12 20:56:32,485(yyyy-MM-dd HH:mm:ss,SSS)INFO ---------------------------------------------
+  2022-12-14 13:46:25,928(yyyy-MM-dd HH:mm:ss,SSS)INFO -Blood Donation Management Started 
+  2022-12-14 13:46:28,676(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetch All Process Started Succesfully
+  2022-12-14 13:46:29,599(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12]]
+  2022-12-14 13:46:29,599(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,599(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,600(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98]]
+  2022-12-14 13:46:29,600(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,600(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,600(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13]]
+  2022-12-14 13:46:29,600(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,600(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,600(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3]]
+  2022-12-14 13:46:29,600(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,600(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,601(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3], donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34]]
+  2022-12-14 13:46:29,601(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,601(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,601(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3], donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34], donorVO [donorId=7, donoName=liyo, donorAge=34, genderId=2, donorContact=8790564312, donorWeight=67, addressId=3]]
+  2022-12-14 13:46:29,601(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,602(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,602(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3], donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34], donorVO [donorId=7, donoName=liyo, donorAge=34, genderId=2, donorContact=8790564312, donorWeight=67, addressId=3], donorVO [donorId=9, donoName=joo, donorAge=34, genderId=2, donorContact=9087653412, donorWeight=76, addressId=9]]
+  2022-12-14 13:46:29,602(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,602(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,602(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3], donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34], donorVO [donorId=7, donoName=liyo, donorAge=34, genderId=2, donorContact=8790564312, donorWeight=67, addressId=3], donorVO [donorId=9, donoName=joo, donorAge=34, genderId=2, donorContact=9087653412, donorWeight=76, addressId=9], donorVO [donorId=10, donoName=gokul, donorAge=45, genderId=2, donorContact=786549730, donorWeight=78, addressId=12]]
+  2022-12-14 13:46:29,603(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,603(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,603(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3], donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34], donorVO [donorId=7, donoName=liyo, donorAge=34, genderId=2, donorContact=8790564312, donorWeight=67, addressId=3], donorVO [donorId=9, donoName=joo, donorAge=34, genderId=2, donorContact=9087653412, donorWeight=76, addressId=9], donorVO [donorId=10, donoName=gokul, donorAge=45, genderId=2, donorContact=786549730, donorWeight=78, addressId=12], donorVO [donorId=11, donoName=sandy, donorAge=25, genderId=4, donorContact=985678432, donorWeight=67, addressId=13]]
+  2022-12-14 13:46:29,603(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,603(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,604(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3], donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34], donorVO [donorId=7, donoName=liyo, donorAge=34, genderId=2, donorContact=8790564312, donorWeight=67, addressId=3], donorVO [donorId=9, donoName=joo, donorAge=34, genderId=2, donorContact=9087653412, donorWeight=76, addressId=9], donorVO [donorId=10, donoName=gokul, donorAge=45, genderId=2, donorContact=786549730, donorWeight=78, addressId=12], donorVO [donorId=11, donoName=sandy, donorAge=25, genderId=4, donorContact=985678432, donorWeight=67, addressId=13], donorVO [donorId=12, donoName=karuppu, donorAge=32, genderId=13, donorContact=9083462782, donorWeight=70, addressId=17]]
+  2022-12-14 13:46:29,604(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,604(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,604(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3], donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34], donorVO [donorId=7, donoName=liyo, donorAge=34, genderId=2, donorContact=8790564312, donorWeight=67, addressId=3], donorVO [donorId=9, donoName=joo, donorAge=34, genderId=2, donorContact=9087653412, donorWeight=76, addressId=9], donorVO [donorId=10, donoName=gokul, donorAge=45, genderId=2, donorContact=786549730, donorWeight=78, addressId=12], donorVO [donorId=11, donoName=sandy, donorAge=25, genderId=4, donorContact=985678432, donorWeight=67, addressId=13], donorVO [donorId=12, donoName=karuppu, donorAge=32, genderId=13, donorContact=9083462782, donorWeight=70, addressId=17], donorVO [donorId=13, donoName=naveen, donorAge=45, genderId=13, donorContact=9087563421, donorWeight=78, addressId=18]]
+  2022-12-14 13:46:29,605(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,605(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,605(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3], donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34], donorVO [donorId=7, donoName=liyo, donorAge=34, genderId=2, donorContact=8790564312, donorWeight=67, addressId=3], donorVO [donorId=9, donoName=joo, donorAge=34, genderId=2, donorContact=9087653412, donorWeight=76, addressId=9], donorVO [donorId=10, donoName=gokul, donorAge=45, genderId=2, donorContact=786549730, donorWeight=78, addressId=12], donorVO [donorId=11, donoName=sandy, donorAge=25, genderId=4, donorContact=985678432, donorWeight=67, addressId=13], donorVO [donorId=12, donoName=karuppu, donorAge=32, genderId=13, donorContact=9083462782, donorWeight=70, addressId=17], donorVO [donorId=13, donoName=naveen, donorAge=45, genderId=13, donorContact=9087563421, donorWeight=78, addressId=18], donorVO [donorId=14, donoName=Ambani, donorAge=56, genderId=3, donorContact=981237465, donorWeight=78, addressId=45]]
+  2022-12-14 13:46:29,605(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,605(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2022-12-14 13:46:29,606(yyyy-MM-dd HH:mm:ss,SSS)INFO -[donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12], donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98], donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13], donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3], donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34], donorVO [donorId=7, donoName=liyo, donorAge=34, genderId=2, donorContact=8790564312, donorWeight=67, addressId=3], donorVO [donorId=9, donoName=joo, donorAge=34, genderId=2, donorContact=9087653412, donorWeight=76, addressId=9], donorVO [donorId=10, donoName=gokul, donorAge=45, genderId=2, donorContact=786549730, donorWeight=78, addressId=12], donorVO [donorId=11, donoName=sandy, donorAge=25, genderId=4, donorContact=985678432, donorWeight=67, addressId=13], donorVO [donorId=12, donoName=karuppu, donorAge=32, genderId=13, donorContact=9083462782, donorWeight=70, addressId=17], donorVO [donorId=13, donoName=naveen, donorAge=45, genderId=13, donorContact=9087563421, donorWeight=78, addressId=18], donorVO [donorId=14, donoName=Ambani, donorAge=56, genderId=3, donorContact=981237465, donorWeight=78, addressId=45], donorVO [donorId=15, donoName=Adaaniaa, donorAge=50, genderId=2, donorContact=9078563412, donorWeight=87, addressId=11]]
+  2022-12-14 13:46:29,606(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2022-12-14 13:46:29,606(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 14:07:22,001(yyyy-MM-dd HH:mm:ss,SSS)INFO -Blood Donation Management Started 
+  2023-05-04 14:07:29,389(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetch All Process Started Succesfully
+  2023-05-04 14:07:30,143(yyyy-MM-dd HH:mm:ss,SSS)ERROR-error while updating donor
+  java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:835)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:681)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:229)
+	at com.demo.DAO.DonorDAO.fetchAllDonor(DonorDAO.java:148)
+	at com.demo.BO.DonorBO.fetchAllDonor(DonorBO.java:96)
+	at com.demo.service.DonorService.fetchAllDonor(DonorService.java:77)
+	at com.demo.main.DonorMain.fetchAllDonor(DonorMain.java:155)
+	at com.demo.main.DonorMain.main(DonorMain.java:50)
+2023-05-04 14:07:30,147(yyyy-MM-dd HH:mm:ss,SSS)WARN -Fetche All Donor Details  process not completed.Due to bug
+  2023-05-04 15:16:03,739(yyyy-MM-dd HH:mm:ss,SSS)INFO -Blood Donation Management Started 
+  2023-05-04 15:16:47,222(yyyy-MM-dd HH:mm:ss,SSS)INFO -Add Process Started Successfully
+  2023-05-04 15:16:47,911(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=60, donoName=mam, donorAge=32, genderId=12, donorContact=983764782, donorWeight=56, addressId=89]
+  2023-05-04 15:16:47,912(yyyy-MM-dd HH:mm:ss,SSS)INFO -add process completed succesfully
+  2023-05-04 15:16:47,912(yyyy-MM-dd HH:mm:ss,SSS)INFO -------------------------------------------------------------------------------
+  2023-05-04 15:17:14,514(yyyy-MM-dd HH:mm:ss,SSS)INFO -Blood Donation Management Started 
+  2023-05-04 15:17:23,291(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetch Id Process Started Sucesfully
+  2023-05-04 15:17:23,820(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=12, donoName=karuppu, donorAge=32, genderId=13, donorContact=9083462782, donorWeight=70, addressId=17]
+  2023-05-04 15:17:23,820(yyyy-MM-dd HH:mm:ss,SSS)INFO -12 Id details Fetched succesfully
+  2023-05-04 15:17:23,821(yyyy-MM-dd HH:mm:ss,SSS)INFO ---------------------------------------------
+  2023-05-04 15:17:32,551(yyyy-MM-dd HH:mm:ss,SSS)INFO -Blood Donation Management Started 
+  2023-05-04 15:17:36,713(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetch All Process Started Succesfully
+  2023-05-04 15:17:37,236(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=1, donoName=bg, donorAge=45, genderId=1, donorContact=9876543210, donorWeight=89, addressId=12]
+  2023-05-04 15:17:37,237(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,237(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,237(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=2, donoName=bala, donorAge=23, genderId=54, donorContact=9807654321, donorWeight=75, addressId=98]
+  2023-05-04 15:17:37,237(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,237(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,237(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=3, donoName=karthi, donorAge=26, genderId=1, donorContact=9887554543, donorWeight=67, addressId=13]
+  2023-05-04 15:17:37,237(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,237(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,238(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=5, donoName=raj, donorAge=25, genderId=3, donorContact=9087653421, donorWeight=67, addressId=3]
+  2023-05-04 15:17:37,238(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,238(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,238(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=6, donoName=kanaga, donorAge=21, genderId=3, donorContact=987654321, donorWeight=63, addressId=34]
+  2023-05-04 15:17:37,238(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,238(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,239(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=7, donoName=liyo, donorAge=34, genderId=2, donorContact=8790564312, donorWeight=67, addressId=3]
+  2023-05-04 15:17:37,239(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,239(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,239(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=9, donoName=joo, donorAge=34, genderId=2, donorContact=9087653412, donorWeight=76, addressId=9]
+  2023-05-04 15:17:37,239(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,239(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,239(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=10, donoName=gokul, donorAge=45, genderId=2, donorContact=786549730, donorWeight=78, addressId=12]
+  2023-05-04 15:17:37,239(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,240(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,240(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=11, donoName=sandy, donorAge=25, genderId=4, donorContact=985678432, donorWeight=67, addressId=13]
+  2023-05-04 15:17:37,240(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,240(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,240(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=12, donoName=karuppu, donorAge=32, genderId=13, donorContact=9083462782, donorWeight=70, addressId=17]
+  2023-05-04 15:17:37,241(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,241(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,241(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=13, donoName=naveen, donorAge=45, genderId=13, donorContact=9087563421, donorWeight=78, addressId=18]
+  2023-05-04 15:17:37,241(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,241(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,241(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=14, donoName=Ambani, donorAge=56, genderId=3, donorContact=981237465, donorWeight=78, addressId=45]
+  2023-05-04 15:17:37,241(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,241(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,242(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=15, donoName=Adaaniaa, donorAge=50, genderId=2, donorContact=9078563412, donorWeight=87, addressId=11]
+  2023-05-04 15:17:37,242(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,242(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  2023-05-04 15:17:37,242(yyyy-MM-dd HH:mm:ss,SSS)INFO -donorVO [donorId=60, donoName=mam, donorAge=32, genderId=12, donorContact=983764782, donorWeight=56, addressId=89]
+  2023-05-04 15:17:37,242(yyyy-MM-dd HH:mm:ss,SSS)INFO -Fetched All Donor Details Sucesfully
+  2023-05-04 15:17:37,242(yyyy-MM-dd HH:mm:ss,SSS)INFO ------------------------------------------
+  
